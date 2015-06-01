@@ -1,0 +1,22 @@
+{
+  "name": "ResumeWebsite",
+  "version": "0.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dthorne/resume-site.git"
+  },
+  "author": "Dewey McNeill",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/dthorne/resume-site/issues"
+  },
+  "dependencies": {
+    "express": "~4.12.4",
+    "underscore": "~1.8.3"
+  }
+}
